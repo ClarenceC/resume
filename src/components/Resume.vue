@@ -26,19 +26,19 @@
             <span style="margin-left: 10px"> 本科 </span>
             <span style="margin-left: 10px">华南理工大学</span>
             <span style="margin-left: 10px">计算机科学与技术</span>
-            <!-- <span style="margin-left: 10px">2009-2012</span> -->
+            <span style="margin-left: 10px">2009-2012</span>
           </div>
-          <!-- <div>
+          <div>
             <span style="margin-left: 10px"> 大专 </span>
             <span style="margin-left: 10px">广东科学技术职业学院</span>
             <span style="margin-left: 10px">计算机科学与技术</span>
             <span style="margin-left: 10px">2006-2009</span>
-          </div> -->
+          </div>
         </div>
       </div>
       <div class="title-container-item">
         <p style="font-size: 15px">
-          10+ 年研发经验，4+ 年前端团队管理经验，熟悉 React/Vue 全家桶技术栈；具备多端开发与跨端和浏览器兼容性，擅长跨部门协作推进项目；持续跟进前端技术趋势，有后端基础，对 AI / Agent 有研究与实践。
+          10+年研发经验，4+年前端TL经验，熟悉 React/Vue 全家桶技术栈；具备多端跨端研发经验和浏览器兼容能力、有后端基础，对 AI / Agent 有研究与实践；擅长跨部门协作推进项目；
         </p>
       </div>
     </div>
@@ -57,7 +57,7 @@
           <div><span>2025.06-现在</span></div>
         </div>
         <ul>
-          <li>主导产业 SaaS、QRCode 点餐、POS 手持端等多端系统研发与迭代，覆盖点餐、支付、收银核心业务</li>
+          <li>主导餐饮 SaaS、QRCode 点餐、POS 手持端等多端系统研发与迭代，覆盖点餐、支付、收银核心业务</li>
           <li>搭建并管理 5 人前端团队，出技术方案，拆分任务并制定开发计划、月度绩效考核、推动技术栈升级，建立代码规范与 CodeReview 、PR 流程机制</li>
           <li>QRCode 点餐系统框架选型与搭建，落地全局国际化、标准化表单组件、时区转换、多时段互斥、多环境Docker部署、权限系统与Sentry监控等，搭建 jsBridge 实现多端通信</li>
           <li>推动 技术栈升级与 Vibe Coding / AI Agent Harness 落地，需求交付周期由 4 周缩短至 2 周，需求返工率由 30% 降至 10%，缺陷修复率由 50% 提升至 90%</li>

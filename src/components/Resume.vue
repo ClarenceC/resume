@@ -192,10 +192,10 @@
         <p>
           业务组件库，在公共组件库之上研发复杂的高可用组件，减少业务线重复开发，提升开发效率
         </p>
-        <p>
+        <div>
         <div><b>技术栈: </b> React antd TypeScript father Nexus3 npm</div>
         <div><b>难点: </b>css样式覆盖、业务组件打包、组件动态加载数据、本地部署、npm包版本管理</div>
-        </p>
+        </div>
       </div>
       <div style="width: 280px; text-align: left; font-size: 14px">
         <h3 style="font-size: 18px; margin-bottom: 10px">技术栈</h3>

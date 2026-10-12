@@ -19,7 +19,7 @@
         style="font-size: 16px"
       >
         <h3>
-          <span>前端开发工程师</span>
+          <span>高级前端工程师TL</span>
         </h3>
         <div>
           <div>
@@ -28,17 +28,17 @@
             <span style="margin-left: 10px">计算机科学与技术</span>
             <span style="margin-left: 10px">2009-2012</span>
           </div>
-          <div>
+          <!-- <div>
             <span style="margin-left: 10px"> 大专 </span>
             <span style="margin-left: 10px">广东科学技术职业学院</span>
             <span style="margin-left: 10px">计算机科学与技术</span>
             <span style="margin-left: 10px">2006-2009</span>
-          </div>
+          </div> -->
         </div>
       </div>
       <div class="title-container-item">
         <p style="font-size: 15px">
-          10+年研发经验，4+年前端TL经验，熟悉 React/Vue 全家桶技术栈；具备多端跨端研发经验和浏览器兼容能力、有后端基础，对 AI / Agent 有研究与实践；擅长跨部门协作推进项目；
+          10+年研发经验，4+年前端TL经验，熟悉 React/Vue 全家桶技术栈；具备多端跨端研发经验和浏览器兼容能力、有后端经验，对 AI / Agent Harness 方向有研究与实践；擅长跨部门协作推进项目；
         </p>
       </div>
     </div>
@@ -57,8 +57,8 @@
           <div><span>2025.06-现在</span></div>
         </div>
         <ul>
-          <li>主导餐饮 SaaS、QRCode 点餐、POS 手持端等多端系统研发与迭代，覆盖点餐、支付、收银核心业务</li>
-          <li>搭建并管理 5 人前端团队，出技术方案，拆分任务并制定开发计划、月度绩效考核、推动技术栈升级，建立代码规范与 CodeReview 、PR 流程机制</li>
+          <li>主导餐饮 SaaS、QRCode 点餐、POS 手持端等多端系统研发与迭代，覆盖点餐、支付、门店收银核心业务</li>
+          <li>搭建并管理 5+ 人前端团队，出技术方案，拆分任务并制定开发计划、月度绩效考核、推动技术栈升级，建立代码规范与 CodeReview 、PR 流程机制</li>
           <li>QRCode 点餐系统框架选型与搭建，落地全局国际化、标准化表单组件、时区转换、多时段互斥、多环境Docker部署、权限系统与Sentry监控等，搭建 jsBridge 实现多端通信</li>
           <li>推动 技术栈升级与 Vibe Coding / AI Agent Harness 落地，需求交付周期由 4 周缩短至 2 周，需求返工率由 30% 降至 10%，缺陷修复率由 50% 提升至 90%</li>
         </ul>
@@ -70,7 +70,7 @@
           <div><span>2023.04-2025.04</span></div>
         </div>
         <ul>
-          <li>负责产业 SaaS 平台、小程序、商城平台多端研发迭代，拆分任务、搭建并管理前端团队，负责框架选型、需求推进与代码质量管理，打通供应链到抖店直播生态，支撑百万粉级主播商品快速上架与交易闭环</li>
+          <li>负责直播 SaaS 平台、小程序、商城平台多端研发迭代，拆分任务、搭建并管理前端团队，负责框架选型、需求推进与代码质量管理，打通供应链到抖店直播生态，支撑百万粉级主播商品快速上架与交易闭环</li>
           <li>主导商品中台建设（商品建模、库存与直播货盘管理），商品上架周期由 2 周缩短至 1 天</li>
         </ul>
         <div style="display: flex; justify-content: space-between">
@@ -88,7 +88,7 @@
             实现复杂表单功能提交、灰度环境配置与发布、实现H5 SSR、SSC性能优化、活动页开发
           </li>
           <li>
-            推动前端组件库搭建与落地，组件库含 10+ 组件，覆盖 5+ 业务线，支撑 6+ 项目
+            推动前端组件库搭建与落地，组件库含 10+ 组件，覆盖 5+ 业务线，支撑 6+ 前端系统项目
           </li>
           <li>负责 H5 海外书城项目搭建与业务开发并落地</li>
         </ul>
@@ -192,10 +192,10 @@
         <p>
           业务组件库，在公共组件库之上研发复杂的高可用组件，减少业务线重复开发，提升开发效率
         </p>
-        <p>
+        <div>
         <div><b>技术栈: </b> React antd TypeScript father Nexus3 npm</div>
         <div><b>难点: </b>css样式覆盖、业务组件打包、组件动态加载数据、本地部署、npm包版本管理</div>
-        </p>
+        </div>
       </div>
       <div style="width: 280px; text-align: left; font-size: 14px">
         <h3 style="font-size: 18px; margin-bottom: 10px">技术栈</h3>
@@ -210,7 +210,7 @@
         <h4>后端 / 全栈</h4>
         <p>Node.js、Express、AWS S3、Java、SQL</p>
         <h4>AI</h4>
-        <p>Claude Code、Cursor、Codex，Vibe Coding / Agent Harness 实践</p>
+        <p>熟练使用 Claude Code、Codex、Cursor、AI / Agent Harness 快速排查问题，跨语言开发协作、和重构项目</p>
         <h4>基础</h4>
         <p>计算机原理、算法与数据结构、设计模式、HTTP、浏览器原理</p>
         <h4>社区</h4>

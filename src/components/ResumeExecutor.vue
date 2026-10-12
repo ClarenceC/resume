@@ -38,7 +38,7 @@
       </div>
       <div class="title-container-item">
         <p style="font-size: 15px">
-          9 年前端开发经验，熟悉 React/Vue 全家桶技术栈；具备多端跨端研发经验与浏览器兼容能力，擅长复杂表单、性能优化、工程化与监控建设；有后端基础（Node.js/Java），可独立完成前后端联调与部署，对 AI 辅助研发有落地实践，并持续跟进 Agent Harness 方向。
+          9 年前端开发经验，熟悉 React/Vue 全家桶技术栈；具备多端跨端研发经验与浏览器兼容能力，擅长复杂表单、性能优化、工程化与监控建设；有后端基础（Node.js/Java），可独立完成前后端联调与部署，对 AI 辅助研发有落地实践，和研究 Agent Harness 方向。
         </p>
       </div>
     </div>
@@ -57,9 +57,9 @@
           <div><span>2025.06-现在</span></div>
         </div>
         <ul>
-          <li>负责餐饮 SaaS、QRCode 点餐、POS 手持端等多端系统核心模块研发与迭代，覆盖点餐、支付、收银核心业务</li>
+          <li>负责餐饮 SaaS 平台、QRCode 店铺点餐系统、POS 手持端等多端系统核心模块研发与迭代，覆盖点餐、支付、收银核心业务</li>
           <li>参与代码规范与 CodeReview、PR 流程建设，推动技术栈升级，保障多人协作下的交付质量</li>
-          <li>负责 QRCode 点餐系统前端搭建与迭代，落地全局国际化、标准化表单组件、时区转换、多时段互斥、多环境Docker部署、权限系统与Sentry监控等，搭建 jsBridge 实现多端通信</li>
+          <li>负责 QRCode 点餐系统前端搭建与迭代，落地全局国际化、标准化表单组件、时区转换、多时段互斥、多环境Docker部署、实现权限系统与Sentry监控业务埋点等，通过jsBridge实现多端通信</li>
           <li>推动技术栈升级与 AI 辅助研发流程（Claude Code / Codex）落地，需求交付周期由 4 周缩短至 2 周，需求返工率由 30% 降至 10%，缺陷修复率由 50% 提升至 90%</li>
         </ul>
         <div style="display: flex; justify-content: space-between">
@@ -70,7 +70,7 @@
           <div><span>2023.04-2025.04</span></div>
         </div>
         <ul>
-          <li>负责产业 SaaS 平台、小程序、商城平台多端研发迭代，打通供应链到抖店直播生态，支撑百万粉级主播商品快速上架与交易闭环</li>
+          <li>负责直播 SaaS 平台、小程序、商城平台多端研发迭代，打通供应链到抖店直播生态，支撑百万粉级主播商品快速上架与交易闭环</li>
           <li>负责商品中台前端建设（商品建模、库存与直播货盘管理），商品上架周期由 2 周缩短至 1 天</li>
         </ul>
         <div style="display: flex; justify-content: space-between">
@@ -90,7 +90,7 @@
           <li>
             推动前端组件库搭建与落地，组件库含 10+ 组件，覆盖 5+ 业务线，支撑 6+ 项目
           </li>
-          <li>负责 H5 海外书城项目搭建与业务开发并落地</li>
+          <li>负责 H5 海外书城项目上架和书城配置平台搭建研发</li>
         </ul>
         <div style="display: flex; justify-content: space-between">
           <div style="display: flex">
@@ -99,11 +99,11 @@
           </div>
           <div><span>2017.03-2019.11</span></div>
         </div>
-        <ul>
-          <li>负责 Weex 移动端项目开发与迭代</li>
-          <li>重构移动端项目和状态库，开发关键页面并优化其加载性能</li>
+        <!-- <ul>
+          <li>负责 Weex 移动端功能开发与迭代、和功能兼容</li>
+          <li>重构移动端项目和状态库功能，研发关键跳转页面并优化其加载性能</li>
           <li>负责产品埋点，协助提升用户下单率与自然流量</li>
-        </ul>
+        </ul> -->
         <div style="display: flex; justify-content: space-between">
           <div style="display: flex">
             <h4>广州 OSRAM 有限公司</h4>
@@ -111,11 +111,11 @@
           </div>
           <div><span>2012.10-2017.03</span></div>
         </div>
-        <ul>
+        <!-- <ul>
           <li>开发网上电子商城销售平台</li>
           <li>办公协同流程批量插件开发</li>
           <li>联合 ERP 外挂软件，整理统计数据与报表，开发批量发邮件脚本</li>
-        </ul>
+        </ul> -->
         <h3 style="font-size: 18px; margin-bottom: 10px; margin-top: 10px;">重点项目</h3>
         <div style="display: flex; justify-content: space-between">
           <div style="display: flex">
@@ -124,10 +124,10 @@
           <div>2025.08</div>
         </div>
         <p>
-          从 0 到 1 搭建点餐系统前端（PC 商户经营后台 + 手持端 POS/点餐 H5），覆盖 HK/JP 双地区与四语种，打通商户经营管理、食客点餐下单、支付收银全链路；主导整体架构设计、多环境部署与 Sentry 监控闭环建设
+          从 0 到 1 搭建点餐系统（PC 商户经营 Saas 后台 + 手持端 POS/点餐 H5），覆盖 HK/JP 双地区与四语种，打通商户经营管理、食客点餐下单、支付收银全链路；主导整体架构设计、多环境部署与 Sentry 监控闭环建设
         </p>
         <p>
-          <div><b>技术栈:</b> React 18/19 TypeScript Next.js 14/15 Ant Design Zustand/Valtio React Query Rsbuild Tailwind Sentry Docker</div>
+          <div><b>技术栈:</b> React 18/19 TypeScript Next.js 14/15 Ant Design Zustand/Valtio React Query Rsbuild Tailwind Sentry Docker Flutter</div>
           <div><b>难点: </b>自研版本热更新方案，解决 H5 静态导出场景下用户持有旧包无法强制更新的痛点；设计多租户请求层，401 失败请求队列化 + token 刷新后自动重放，实现登录无感续期；搭建 4 套环境 × HK/JP 双区域 Docker 部署矩阵，配合 SSR/CSR 请求分流（服务端内网直连 / 客户端代理）</div>
         </p>
         <div style="display: flex; justify-content: space-between">
@@ -136,10 +136,10 @@
           </div>
           <div>2024.11</div>
         </div>
-        <p>电影排座轮播应用，按日期时间实时更新电影票房价格与上座率，并实时绘制座位图信息</p>
+        <p>电影排座轮播App ，按日期时间实时更新电影票房价格与上座率，并实时绘制座位图信息</p>
         <p>
           <div><b>技术栈:</b> Tauri NextJS React Vite Tailwind TypeScript Worker</div>
-          <div><b>难点:</b> 生成跨端应用、自适应屏幕大小、多接口短轮询、动态变更路由、定时清理数据、对数据压缩并获取算法优化</div>
+          <div><b>难点:</b> 生成跨端应用多端安装运行、自适应屏幕大小、多接口短轮询、动态变更路由、定时清理数据、对数据压缩并获取算法优化</div>
         </p>
         <div style="display: flex; justify-content: space-between">
           <div style="display: flex">
@@ -148,7 +148,7 @@
           <div>2023.06</div>
         </div>
         <p>
-          SaaS 中台系统，打通 ERP 对接抖音商城，实现一键同步商品、可配置 SPU/SKU 动态商品属性、播前货盘、可编辑树状表格、快速上下架、库存价格管理、商品数据可视化分析、直播时长走势、财务成本与利润报表等功能
+          SaaS 中台系统，打通 ERP 对接抖音商城，实现一键同步商品、商品可配置 SPU/SKU 动态商品属性、播前动态导入商品货盘、可编辑树状表格、快速上下架、动态展示库存、价格管理、商品数据可视化分析、直播时长走势、财务成本与利润报表等功能
         </p>
         <p>
           <div><b>技术栈:</b> Vite React-Query ECharts antd Ahook</div>
@@ -181,7 +181,7 @@
         </p>
         <p>
           <div><b>技术栈: </b> antd React18+ Vite react-Query unstated-next TypeScript ECharts dnd-kit</div>
-          <div><b>难点: </b> 复杂业务组件封装、复杂动态表单交互、大数据报表和图展示、多状态组件封装、权限系统</div>
+          <div><b>难点: </b> 复杂业务组件封装、复杂动态表单交互、复杂大数据报表（包含前端分页，排序，下载，导出，图表展示）、多状态组件封装、对接权限系统</div>
         </p>
         <div style="display: flex; justify-content: space-between">
           <div style="display: flex">
@@ -192,17 +192,19 @@
         <p>
           业务组件库，在公共组件库之上研发复杂的高可用组件，减少业务线重复开发，提升开发效率
         </p>
-        <p>
+        <div>
         <div><b>技术栈: </b> React antd TypeScript father Nexus3 npm</div>
         <div><b>难点: </b>css样式覆盖、业务组件打包、组件动态加载数据、本地部署、npm包版本管理</div>
-        </p>
+        </div>
       </div>
       <div style="width: 280px; text-align: left; font-size: 14px">
         <h3 style="font-size: 18px; margin-bottom: 10px">技术栈</h3>
         <h4>框架</h4>
         <p>React 18/19、Vue、Next.js 14/15、React Query、Zustand/Valtio</p>
         <h4>工程化</h4>
-        <p>TypeScript、Vite/Rsbuild、Webpack、多环境 Docker 部署、Sentry 监控、CI/CD、i18n</p>
+        <p>TypeScript、Vite/Rsbuild、Webpack、i18n、Sentry 监控</p>
+        <h4>CI/CD</h4>
+        <p>熟悉 Docker、Kubermetes、Jenkins、Nginx、等云原生及 DevOps 体系，有海外多地部署经验</p>
         <h4>UI 与可视化</h4>
         <p>Ant Design、Tailwind、ECharts、Highcharts、antd-mobile</p>
         <h4>跨端</h4>
@@ -210,7 +212,7 @@
         <h4>后端 / 全栈</h4>
         <p>Node.js、Express、AWS S3、Java、MySQL、Oracle、GraphQL</p>
         <h4>AI</h4>
-        <p>Claude Code、Cursor、Codex，AI 辅助研发 / Agent Harness 实践</p>
+        <p>熟练使用 Claude Code、Codex、Cursor、AI 研发 / 配合Agent Harness 快速排查问题，跨语言开发协作、和重构项目</p>
         <h4>基础</h4>
         <p>计算机原理、算法与数据结构、设计模式、HTTP、浏览器原理</p>
         <h4>社区</h4>
